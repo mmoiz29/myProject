@@ -1,4 +1,5 @@
 
 my first file in inux
 my first line in linux
+editing form the GIT repository
 sample file
